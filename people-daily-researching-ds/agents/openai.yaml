@@ -1,0 +1,4 @@
+interface:
+  display_name: "People Daily Researching DS"
+  short_description: "Extract People Daily titles and article URLs"
+  default_prompt: "Use $people-daily-researching-ds to extract People's Daily for 20260704 默认: do not ask again when default is given; read layout titles, loosely rank relevance from titles only, list uncertain matches, make titles clickable with article URLs, prefer HTML if practical, and do not include a summary column."
