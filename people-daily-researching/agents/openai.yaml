@@ -1,0 +1,4 @@
+interface:
+  display_name: "People Daily Researching"
+  short_description: "Extract People Daily e-paper summaries and industry matches"
+  default_prompt: "Use $people-daily-researching to extract all report titles and summaries from People Daily for 20260704, then ask for industry screening terms."
