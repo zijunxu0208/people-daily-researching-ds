@@ -1,3 +1,4 @@
+人民日报信息搜集Skills for DeepSeek++
 # people-daily-researching-ds（无DS后缀者为Codex等主流Agent适用)
 
 低资源版《人民日报》电子版标题筛选 skill。适合只能操作浏览器、不能稳定批量开标签页、不能可靠读写本地文件的 agent。
