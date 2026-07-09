@@ -2,6 +2,7 @@
 # people-daily-researching
 
 适合国内外多版Agent的《人民日报》电子版标题筛选 skill。
+包括轻量版(ds后缀版，只判断标题，有明显遗漏)，适配无法运行Python短脚本的DeepSeek++插件
 
 ## 适用场景
 
@@ -11,6 +12,7 @@
 
 - 美妆
 - 日化
+- 旅游（ds后缀）
 
 ## 调用示例
 
